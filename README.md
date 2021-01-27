@@ -1,4 +1,4 @@
-# Exam AI-900: Microsoft AI Fundamentals
+# Exam AI-900: AZURE AI Fundamentals
 > By Tash
 
 <p align="center">
