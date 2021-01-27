@@ -1,4 +1,4 @@
-# Exam AI-900: AZURE AI Fundamentals
+## Exam AI-900: AZURE AI FUNDAMENTALS
 > By Tash
 
 <p align="center">
