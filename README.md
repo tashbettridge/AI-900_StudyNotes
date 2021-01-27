@@ -2,7 +2,7 @@
 > By Tash
 
 <p align="center">
-<img max-height=200 height=200 src=""/>
+<img max-height=200 height=200 src="https://github.com/ciph3rwoman/AI-900_StudyNotes/blob/main/AI_Fundamentals.png"/>
 </p>
 
 The first thing you should do is look at the criteria under skills measured. You are marked on the following:
