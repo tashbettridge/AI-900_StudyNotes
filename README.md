@@ -41,9 +41,9 @@ Here are a list of resources that helped me prepare for the exam:
 - Microsoft AI principles: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
 - YouTube: https://www.youtube.com/watch?v=E9aarWMLJw0
 - O'reily: https://learning.oreilly.com/live-training/courses/microsoft-certified-azure-ai-fundamentals-crash-course/0636920051857/
-- Exam Dumps - Testpreptraining: https://www.testpreptraining.com/
-- Exam Dumps - MeasureUp: https://www.measureup.com/ 
-- Exam Dumps - Exam Topic: https://www.examtopics.com/exams/microsoft/ai-900/view/
+- Exam Practice Questions - Testpreptraining: https://www.testpreptraining.com/
+- Exam Practice Questions - MeasureUp: https://www.measureup.com/ 
+- Exam Practice Questions - Exam Topic: https://www.examtopics.com/exams/microsoft/ai-900/view/
 
 # Summary:
 <a name="summary"></a>
